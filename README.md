@@ -1,7 +1,7 @@
 # advanced-calculator
 # A advanced Android calculator app
 
-demo https://youtu.be/7pL_yyCI1xg
+
 
 Nothing special, I just made a very simple calculator app for android phones.   
 
