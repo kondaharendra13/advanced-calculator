@@ -1,5 +1,5 @@
 # advanced-calculator
-# A simple Android calculator app
+# A advanced Android calculator app
 
 demo https://youtu.be/7pL_yyCI1xg
 
